@@ -31,7 +31,7 @@ The collection is just compose of one .csv file. It contains one message per lin
 is composed by two columns: v1 contains the labels (ham or spam) and v2 contains the raw text.
 
 ## Citations
-*If you find this dataset useful, you make a reference to our paper and the [web page](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) in your papers, research, etc; 
+_If you find this dataset useful, you make a reference to our paper and the [web page](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) in your papers, research, etc; 
 Send us a message to talmeida ufscar.br or jmgomezh yahoo.es in case you make use of the corpus.
  
-The SMS Spam Collection has been created by Tiago A. Almeida and José María Gómez Hidalgo*.
+The SMS Spam Collection has been created by Tiago A. Almeida and José María Gómez Hidalgo._
