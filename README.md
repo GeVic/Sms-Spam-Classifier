@@ -9,4 +9,8 @@ feature extraction, different machine learning algorithm are applied to the data
 ```print("Work still in progress to introduce better result from current models")```
 
 ### Briefs of file
-
+-```spams.csv``` Dataset file in the preferred .csv format with IIT Delhi dataset being mergerd with.
+-```formatted_set.py``` To format the code into the required .csv and into particular columns.
+-```preprocessing.py``` Minmalistic code required for preprocessing, feature extraction which is to be performed on the dataset.
+-```README.md``` You are reading it now ;-)
+ 
