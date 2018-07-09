@@ -16,6 +16,7 @@ feature extraction, different machine learning algorithm are applied to the data
 
 ## Database information
 ```As given on UCI website```
+
 This corpus has been collected from free or free for research sources at the Internet: 
 
 - A collection of 425 SMS spam messages was manually extracted from the Grumbletext Web site. This is a UK forum in which cell phone users make public claims about SMS spam messages, most of them without reporting the very spam message received. The identification of the text of spam messages in the claims is a very hard and time-consuming task, and it involved carefully scanning hundreds of web pages. The Grumbletext Web site is: [Web Link]. 
@@ -33,4 +34,4 @@ is composed by two columns: v1 contains the labels (ham or spam) and v2 contains
 *If you find this dataset useful, you make a reference to our paper and the [web page](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) in your papers, research, etc; 
 Send us a message to talmeida ufscar.br or jmgomezh yahoo.es in case you make use of the corpus.
  
-The SMS Spam Collection has been created by Tiago A. Almeida and José María Gómez Hidalgo.*
+The SMS Spam Collection has been created by Tiago A. Almeida and José María Gómez Hidalgo*.
